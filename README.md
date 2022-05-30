@@ -5,9 +5,7 @@
 {
     "name": "Claudio Junior",
     "role": "Wannabe Developer",
-    "tech-interests": [
-        "Web development"   
-    ],
+    "tech-interests": "Web development",
     "hobbies": [
         "Drinking coffee",
         "Tabletop Rpg's",
